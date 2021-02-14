@@ -11,3 +11,4 @@ In this course, I hope to learn how to use data visualization tools so that I ca
 
 # Portfolio
 Here's where all of my cool data visualizations will go!
+Data Visualization 2: https://github.com/divyapg2/gupta-portfolio/blob/main/dataviz2.md
