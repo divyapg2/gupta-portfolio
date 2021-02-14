@@ -20,6 +20,7 @@ Source: https://public.flourish.studio/visualisation/52970
 src="https://public.tableau.com/views/DebttoGDPworkbook/Sheet1?:showVizHome=no&:embed=true" width="90%" "height="500" seamless framborder="0"
 scrolling="no"></iframe>
 
+
 <div class='tableauPlaceholder' id='viz1613340231491' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;
   &#47;public.tableau.com&#47;
   static&#47;
@@ -42,9 +43,6 @@ scrolling="no"></iframe>
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-
-
 
 
 Go back to main portfolio page: https://divyapg2.github.io/gupta-portfolio/
