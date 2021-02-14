@@ -46,4 +46,4 @@ scrolling="no"></iframe>
 
 
 
-Go back to main portfolio page: https://divyapg2.github.io/gupta-portfolio/
+[Go back to main portfolio page](/README.md)
