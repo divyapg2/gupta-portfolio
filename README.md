@@ -13,4 +13,4 @@ In this course, I hope to learn how to use data visualization tools so that I ca
 Here's where all of my cool data visualizations will go!
 Data Visualization 2: https://github.com/divyapg2/gupta-portfolio/blob/main/dataviz2.md
 
-<iframe src="https://data.oecd.org/chart/6gPw" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gPw" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
