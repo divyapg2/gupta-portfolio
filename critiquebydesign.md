@@ -22,17 +22,21 @@ As I considered redesign, I moved to wireframes which allowed me to sketch my ve
 
 
 The feedback I received from a couple of friends:
+Feedback 1)
 - Are the numbers in the key the number of women in leadership positions?
 - I like the colors in the first wireframe
 - I prefer the pink visual over the second
 - I imagine the audience is women looking to lead in male-dominated industries
+Feedback 2)
 - I believe the audience is the general public
 - I would define the key more clearly
 - I think you're comparing women in different sectors in G7 countries
+Feedback 3)
 - The pink chart tells you how women leadership differs according to these various sectors in each country represented in the chart. It also tells you how countries compare to each other in how much women leadership may be prevalent. I think the higher index rating means there is more women leadership in that sector/country, but I'm not 100% sure
 -  Intended audience could be people who are looking at gender leadership representation in certain industries, people who are trying to determine where to fund resources to advocate for women leadership in these sectors
+- I am confused by the first chart because i am not sure what the higher/lower index scores mean for each industry (this may just be me not being familiar with index ratings) (i.e. media/entertainment has ratings that are half 70-80 and half 50-70, but I'm not sure what that tells me for that industry in particular)
 
-With this feedback, I decided to redesign the visualization in Excel. To simplify the visual and avoid audience confusion, I left out all the numbers and just created a key with shades of magenta for each index rating range. I used the same title I created in the wireframe, and since the first wireframe seemed to be a crowdpleaser I chose that one. It also made the most sense to me given the context of the data because the rest of the original report used dark magenta as a positive color to indicate women leadership. I used that same color to refer to the high index ratings for women leadership in my final visualization.
+With this feedback, I decided to redesign the visualization in Excel. To simplify the visual and avoid audience confusion, I left out all the numbers and just created a key with shades of magenta for each index rating range. I used the same title I created in the wireframe, and since the first wireframe seemed to be a crowdpleaser I chose that one. It also made the most sense to me given the context of the data because the rest of the original report used dark magenta as a positive color to indicate women leadership. I used that same color to refer to the high index ratings for women leadership in my final visualization. Also, I didn't feel the need to define the index ratings, as that is provided throughout the original data report and basically refers to a rating out of 100.
 
 
 ## My final data visualization
