@@ -1,6 +1,6 @@
 ## Data Visualizations: Critique by Design
 
-# Original data visualization
+## Original data visualization
 
 ![viz 3](https://user-images.githubusercontent.com/78673644/108646789-fd5a7100-7484-11eb-94e3-e276ce733e5e.PNG) 
 Source: The Reykjavik Index for Leadership
@@ -8,7 +8,7 @@ Link: https://www.womenpoliticalleaders.org/wp-content/uploads/2019/12/The-Reykj
 
 I selected this visualization because it is about women's leadership, which is a topic that I'm concerned about. I think it is important for women to have equal treatment in the workplace. They should also be in leadership roles, and this data visualization shows the rating of how receptive different countries are to women leadership in different career sectors. It's very intriguing to me that a majority of the G7 countries have a high index rating for wanting women leadership in most of their sectors. 
 
-# My process
+## My process
 
 My process in approaching this data visualization was pretty straightfoward. First, I made some observations about what I liked and didn't like about the visual and whether it was informative. This is a very important topic and all the numbers being included in the visual are certainly important, but as I looked at the visual I noticed some things I wanted to change right away, which led me to choosing it for this assignment. As I was using the Data Visualization Effectiveness Profile as a method to critique this visual, I noticed that there were reasons for my confusion. I was able to document those clearly with this method and I could also broadly address certain things I was confused about. In comparison, the Good Charts method is one that requires more specifications for what is going on in the visualization. I do think the Good Charts method allows me to think about the specific parts of the visual, but I wouldn't necessarily say it's better. I think it depends on how rigid the creator of the visualization is with the chart they are creating. 
 
@@ -32,5 +32,6 @@ The feedback I received from a couple of friends:
 -  Intended audience could be people who are looking at gender leadership representation in certain industries, people who are trying to determine where to fund resources to advocate for women leadership in these sectors
 
 
+## My final data visualization
 
 
