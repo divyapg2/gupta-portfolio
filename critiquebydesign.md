@@ -14,6 +14,9 @@ My process in approaching this data visualization was pretty straightfoward. Fir
 
 As I considered redesign, I moved to wireframes which allowed me to sketch my versions of the visualization. I used different colors, a different title, and a key as those were what stood out to me most in terms of clarifying the visual's purpose and main idea. The colors I chose at first were based off of the entire original report's colors and they were related to how I felt the overall audience would perceive the data. The second visualization I created included colors that I thought would be perceived as good and bad--for me, these cleared up the confusion from the original colors. 
 
+# Wireframes
+![wireframe 1](https://user-images.githubusercontent.com/78673644/108648019-26c8cc00-7488-11eb-83e6-9b5759313ac2.PNG)
+
 
 
 
