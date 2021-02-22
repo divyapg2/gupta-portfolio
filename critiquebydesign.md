@@ -22,15 +22,18 @@ As I considered redesign, I moved to wireframes which allowed me to sketch my ve
 
 
 The feedback I received from a couple of friends:
+
 Feedback 1)
 - Are the numbers in the key the number of women in leadership positions?
 - I like the colors in the first wireframe
 - I prefer the pink visual over the second
 - I imagine the audience is women looking to lead in male-dominated industries
+
 Feedback 2)
 - I believe the audience is the general public
 - I would define the key more clearly
 - I think you're comparing women in different sectors in G7 countries
+
 Feedback 3)
 - The pink chart tells you how women leadership differs according to these various sectors in each country represented in the chart. It also tells you how countries compare to each other in how much women leadership may be prevalent. I think the higher index rating means there is more women leadership in that sector/country, but I'm not 100% sure
 -  Intended audience could be people who are looking at gender leadership representation in certain industries, people who are trying to determine where to fund resources to advocate for women leadership in these sectors
