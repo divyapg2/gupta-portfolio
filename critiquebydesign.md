@@ -34,4 +34,7 @@ The feedback I received from a couple of friends:
 
 ## My final data visualization
 
+![final viz for assign 3](https://user-images.githubusercontent.com/78673644/108648107-62639600-7488-11eb-869d-85114ad2ff48.PNG)
 
+
+[Go back to main portfolio page](/README.md)
