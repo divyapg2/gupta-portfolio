@@ -18,11 +18,7 @@ As I considered redesign, I moved to wireframes which allowed me to sketch my ve
 ![wireframe 1](https://user-images.githubusercontent.com/78673644/108648019-26c8cc00-7488-11eb-83e6-9b5759313ac2.PNG)
 
 
-
-
-
-
-
+![wireframe 2](https://user-images.githubusercontent.com/78673644/108648099-5c6db500-7488-11eb-8841-766a67798fc4.PNG)
 
 
 The feedback I received from a couple of friends:
@@ -34,5 +30,7 @@ The feedback I received from a couple of friends:
 - I think you're comparing women in different sectors in G7 countries
 - The pink chart tells you how women leadership differs according to these various sectors in each country represented in the chart. It also tells you how countries compare to each other in how much women leadership may be prevalent. I think the higher index rating means there is more women leadership in that sector/country, but I'm not 100% sure
 -  Intended audience could be people who are looking at gender leadership representation in certain industries, people who are trying to determine where to fund resources to advocate for women leadership in these sectors
+
+
 
 
