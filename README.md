@@ -15,3 +15,5 @@ Here's where all of my cool data visualizations will go!
 [Data Visualization 2](/dataviz2.md)
 
 [Assignment 3 & 4: Critique by Design](/critiquebydesign.md)
+
+[Final Project](/finalproject.md)
