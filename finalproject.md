@@ -3,7 +3,9 @@
 ## Part I ##
 
 **Outline** 
+
 Summary
+
 The recent increase in mental health issues indicates a demand for mental health services.
 People can seek help by going to a psychotherapist or counselor
 
