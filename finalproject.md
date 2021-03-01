@@ -21,9 +21,25 @@ Major elements:
 
 **Sketches**
 
+Storyline
+![storyline final projet outline](https://user-images.githubusercontent.com/78673644/109439660-4e2a1680-79fd-11eb-9224-a14317d74d0a.png)
 
+Increase in Mental Health Issues
+![mental health issues sketch](https://user-images.githubusercontent.com/78673644/109439702-7154c600-79fd-11eb-8418-7889eee112e8.png)
+
+Uptake in mental health services in 2020
+![menta neath services increase sketch](https://user-images.githubusercontent.com/78673644/109439689-66019a80-79fd-11eb-9a7f-a488485254cd.png)
+
+Statistics about hesitation in seeking help
+![Stats sketch](https://user-images.githubusercontent.com/78673644/109439717-7a459780-79fd-11eb-9e0f-ab254e6f93f3.png)
+
+Increase in teletherapy services offered by mental health specialists
+![teletherapy sketch](https://user-images.githubusercontent.com/78673644/109439727-83366900-79fd-11eb-8610-5aab4322f038.png)
 
 **Data**
+
+
+
 Number of U.S. adults who received mental health treatment or counseling in the past year from 2002 to 2019
 https://www-statista-com.cmu.idm.oclc.org/statistics/794027/mental-health-treatment-counseling-past-year-us-adults/
 
@@ -40,8 +56,6 @@ https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
 
 Percentage of US adults who received mental health treatment by insurance status
 https://www.statista.com/statistics/252430/us-adults-who-received-mental-health-treatment-by-insurance-status/![image](https://user-images.githubusercontent.com/78673644/109359289-3a42b100-7853-11eb-80b8-bb12ce39c359.png)
-
-
 
 **Method and Media**
 
