@@ -39,22 +39,28 @@ Increase in teletherapy services offered by mental health specialists
 ![teletherapy sketch](https://user-images.githubusercontent.com/78673644/109439727-83366900-79fd-11eb-8610-5aab4322f038.png)
 
 **Data**
+First, I plan on presenting data about the increase of mental health issues in the past year in US adults. I will most likely focus on anxiety and depression. 
+Then, I will transition to talking about "mental health care in the last 4 weeks" and display the most recent time period of data. This will emphasize how many people went to therapy appointments, took medications, or both, and how many people did not do those things even though they were supposed to. After that, I will talk about the number of adults who have received mental health treatment and services and the increase in the uptake of those services since 2002. There will be a distinction in the increase and it will serve as a way to normalize seeking treatment or counseling. This will lead me to talk about the reasons why people do not receive mental health treatment. I will highlight a couple of statistics here about that including some such as 
 
 
 
-Number of U.S. adults who received mental health treatment or counseling in the past year from 2002 to 2019
-https://www-statista-com.cmu.idm.oclc.org/statistics/794027/mental-health-treatment-counseling-past-year-us-adults/
+I know that accessibility, affordability, and insurance coverage are all relevant issues, but my presentation will not be diving into all of that. Instead, I will highlight the different insured/uninsured people who receive services. This will show that people may not know about the coverage their insurance provides, and that if they have access to it or even if they do not, they might have a good reason to look into it (especially if they are seeking help or feeling mental distress right now). I think I may talk about the benefits of receiving therapy or counseling here, too. My goal is to normalize therapy and seeking help and these visualizations will hopefully allow for that. My call to action is that people use the resources I provide and feel a little bit more comfortable making a first consultation or continuing therapy after my presentation. 
 
-Reasons for not receiving mental health services among US adults in 2019
-file:///C:/Users/dpgup/Downloads/study_id68103_mental-health-treatment-in-the-us.pdf
-https://www.statista.com/statistics/252303/reasons-for-us-adults-not-receiving-mental-health-services/
+Dataset Links:
+Indicators of Anxiety or Depression based on reported frequency of symptoms during last 7 days
+https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
 
 Mental Health Care in the Last 4 Weeks (going to group by time period - first time period vs last time period in data)
 https://www.cdc.gov/nchs/covid19/pulse/mental-health-care.htm
 https://healthdata.gov/dataset/mental-health-care-last-4-weeks
 
-Indicators of Anxiety or Depression based on reported frequency of symptoms during last 7 days
-https://www.cdc.gov/nchs/covid19/pulse/mental-health.htm
+Number of U.S. adults who received mental health treatment or counseling in the past year from 2002 to 2019
+https://www-statista-com.cmu.idm.oclc.org/statistics/794027/mental-health-treatment-counseling-past-year-us-adults/
+
+Reasons for not receiving mental health services among US adults in 2019 (statistics)
+file:///C:/Users/dpgup/Downloads/study_id68103_mental-health-treatment-in-the-us.pdf
+https://www.statista.com/statistics/252303/reasons-for-us-adults-not-receiving-mental-health-services/
+
 
 Percentage of US adults who received mental health treatment by insurance status
 https://www.statista.com/statistics/252430/us-adults-who-received-mental-health-treatment-by-insurance-status/![image](https://user-images.githubusercontent.com/78673644/109359289-3a42b100-7853-11eb-80b8-bb12ce39c359.png)
