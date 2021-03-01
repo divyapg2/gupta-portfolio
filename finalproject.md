@@ -63,11 +63,11 @@ Percentage of US adults who received mental health treatment by insurance status
 https://www.statista.com/statistics/252430/us-adults-who-received-mental-health-treatment-by-insurance-status/![image](https://user-images.githubusercontent.com/78673644/109359289-3a42b100-7853-11eb-80b8-bb12ce39c359.png)
 
 **Method and Media**
-I plan on using Excel to extract some of the main data elements within the datasets I'm using. I will then use Tableau and/or Flourish to create the data visualizations that will make the most impact on my story. 
+I plan on using Excel to extract some of the main data elements within the datasets I'm using. I will then use Tableau and/or Flourish to create the data visualizations that will make the most impact on my story. I will first show the recent increase in mental health disorders and some of the data on how many people have sought help recently. Displaying the increase in teletherapy services will also be a visual I use. 
 
-I will complete my final project by using Shorthand. My goal is to create a compelling story about mental health and seeking therapy. I will first show the recent increase in mental health disorders and some of the data on how many people have sought help recently. Displaying the increase in teletherapy services will also be a visual I use. That way, an audience member will feel less alone so that they can seek help from a licensed psychotherapist or counselor. 
+I will complete my final project by using Shorthand. My goal is to create a compelling story about mental health and seeking therapy. That way, an audience member will feel less alone, and then they will know they can seek help from a licensed psychotherapist or counselor. 
 
-![image](https://user-images.githubusercontent.com/78673644/109440719-32287400-7a01-11eb-9733-49ffb112abf1.png)
+
 
 [Go back to portfolio](/README.md)
 
