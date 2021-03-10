@@ -11,7 +11,7 @@ People can seek help by going to a psychotherapist or counselor
 
 Major elements: 
 1. display increase of mental health issues (anxiety and depression) in US adults (2019 compared to 2020)
-  2. can't just brush this off after the pandemic (maybe show implications of not seeking help)
+2. can't just brush this off after the pandemic (maybe show implications of not seeking help)
 3. show utilization of mental health services (last 4 weeks dataset) and emphasize the increase or percentage for therapy appointments vs not going to therapy
 4. show teletherapy services offered by therapists/mental health specialists and the number of people who use teletherapy
 5. talk about how many people do not know about the services covered by insurance; also show the statistics on people who thought they could handle problems w/o treatment
@@ -112,9 +112,9 @@ Interview 3:
 6. Maybe just the color scheme of that teletherapy visualization but otherwise the storyline flowed well
 
 Interview 4:
-1. first thing i noticed was the title screen! 
+1. first thing I noticed was the title screen! 
 2. yes, each visualization makes sense and it is clear what data each one is depicting
-3. yes, the storyboard makes sense overall. the beginning presents the idea that the pandemic has brought on increases in mental health issues, and the visuals that follow show various trends that relate to the increases in mental health issues like changes in accessing mental health services, changes in mental health providers who are using teletherapy, etc.
+3. yes, the storyboard makes sense overall. The beginning presents the idea that the pandemic has brought on increases in mental health issues, and the visuals that follow show various trends that relate to the increases in mental health issues like changes in accessing mental health services, changes in mental health providers who are using teletherapy, etc.
 4. I wondered if there is any data related to changes in stigma or changes in how much seeking therapy has become normalized over the course of the pandemic
 5. no part of the storyboard is confusing!
 6. I would change the title on the title screen to "Recent increase in mental health issues indicates that seeking services is a normal option". I would also change the title of the visual "Use of mental health services in the last 4 weeks" to "Use of mental health services over the pandemic" to show how access has changed more broadly.
