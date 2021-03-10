@@ -76,7 +76,7 @@ Wireframes and Storyboard: https://preview.shorthand.com/8dtjuMeaHWhDAHbX
 
 Target audience: US adults in general, those thinking about seeking mental health services
 
-Finding representative individuals to interview: 
+Finding representative individuals to interview: asked graduate students, young working professionals, and a middle-aged woman
 
 Interview script:
 1. What is the first thing you noticed?
@@ -93,7 +93,6 @@ Interview 1:
 4. I was a little confused on the teletherapy data visualization. Did you mean to compare how teletherapy usage increased for psychiatrists and psychotherapists? Because your key icons placements are off. 
 5. Some data visualizations were confusing especially with lack of axis labels on the first, third, fourth, and fifth data visualizations. 
 6. Maybe at the end you could provide options for mental health care through employer-based health insurance, etc. Give examples of where they can access mental health care. If I was the audience, at the end, starting my search without any guides would be a little intimidating because I would not know exactly where to start. Overall, I thought your story flowed well!
-
 
 Interview 2: 
 1. The number of people using mental health services has increased and it's okay to ask for help
@@ -134,6 +133,7 @@ Visualization changes to address the issues identified:
 - include axis labels on graphs
 - show more explicit information about normalization of seeking help
 - provide a visualization/examples of how people can seek help through employer-sponsored insurance, self-insurance, etc.
+- teletherapy visualization: need to make sure the colors represent the time period not the specialists (each set of bar chart represents a different specialist)
 
 [Go back to portfolio](/README.md)
 
