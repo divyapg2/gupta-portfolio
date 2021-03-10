@@ -133,7 +133,11 @@ Visualization changes to address the issues identified:
 - include axis labels on graphs
 - show more explicit information about normalization of seeking help
 - provide a visualization/examples of how people can seek help through employer-sponsored insurance, self-insurance, etc.
-- teletherapy visualization: need to make sure the colors represent the time period not the specialists (each set of bar chart represents a different specialist)
+- teletherapy visualization - need to make sure the colors represent the time period not the specialists (each set of bar chart represents a different specialist), show the actual number for the percentage
+- for statistics use a stick figure or person icon to display 3/10 
+- call to action slide - include the logo for APA or just the name "American Psych Assoc." after the quote
+- for the 4 weeks data - rank the bars from lowest to highest use, use the data in a line graph to show change over months in use of mental health services
+- increase in mental health issues graph - indicate when the pandemic started (can show with color), include actual percentage values
 
 [Go back to portfolio](/README.md)
 
