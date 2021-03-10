@@ -68,7 +68,11 @@ I plan on using Excel to extract some of the main data elements within the datas
 
 I will complete my final project by using Shorthand. My goal is to create a compelling story about mental health and seeking therapy. That way, an audience member will feel less alone, and then they will know they can seek help from a licensed psychotherapist or counselor. 
 
+## Part II ##
 
+Wireframes and Storyboard: https://preview.shorthand.com/8dtjuMeaHWhDAHbX 
+
+User research and Interviews:
 
 [Go back to portfolio](/README.md)
 
