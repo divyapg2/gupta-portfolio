@@ -72,7 +72,33 @@ I will complete my final project by using Shorthand. My goal is to create a comp
 
 Wireframes and Storyboard: https://preview.shorthand.com/8dtjuMeaHWhDAHbX 
 
-User research and Interviews:
+**User research and Interviews**
+
+Target audience: US adults in general, those thinking about seeking mental health services
+
+Finding representative individuals to interview: 
+
+Interview script:
+1. q
+2. q
+3. q
+4. q
+5. q
+
+Findings from interviews:
+Interview 1:
+
+Interview 2: 
+
+Interview 3: 
+
+Interview 4:
+
+Interview 5:
+
+Visualization changes to address the issues identified:
+
+
 
 [Go back to portfolio](/README.md)
 
