@@ -40,7 +40,7 @@ Increase in teletherapy services offered by mental health specialists
 
 **Data**
 First, I plan on presenting data about the increase of mental health issues in the past year in US adults. I will most likely focus on anxiety and depression. 
-Then, I will transition to talking about "mental health care in the last 4 weeks" and display the most recent time period of data. This will emphasize how many people went to therapy appointments, took medications, or both, and how many people did not do those things even though they were supposed to. After that, I will talk about the number of adults who have received mental health treatment and services and the increase in the uptake of those services since 2002. There will be a distinction in the increase and it will serve as a way to normalize seeking treatment or counseling. This will lead me to talk about the reasons why people do not receive mental health treatment. I will highlight a couple of statistics here about that including some such as handling the issues without help and not knowing where to seek it in the first place. 
+Then, I will transition to talking about "mental health care in the last 4 weeks" and display the most recent time period of data. This will emphasize how many people went to therapy appointments, took medications, or both, and how many people did not do those things even though they were supposed to. After that, I will talk about the number of adults who have received mental health treatment and services and the increase in the uptake of those services since 2018. There will be a distinction in the increase and it will serve as a way to normalize seeking treatment or counseling. This will lead me to talk about the reasons why people do not receive mental health treatment. I will highlight a couple of statistics here about that including some such as handling the issues without help and not knowing where to seek it in the first place. 
 
 I know that accessibility, affordability, and insurance coverage are all relevant issues, but my presentation will not be diving into all of that here. Instead, I will highlight the different insured/uninsured people who receive services. This will show that people may not know about the coverage their insurance provides, and that if they have access to it or even if they do not, they might have a good reason to look into it (especially if they are seeking help or feeling mental distress right now). There are sliding fee scales that therapists now offer to people paying out of pocket. This may be useful to an audience member who does not have coverage for psychotherapy. I will also talk about the increase in teletherapy. It is a convenient, low effort method for people to receive therapy or counseling. It is also very useful during the pandemic where social distancing is essential. I think I may talk about the benefits of receiving therapy or counseling here, too. My goal is to normalize therapy and seeking help and these visualizations will hopefully allow for that. My call to action is that people use the resources I provide and feel a little bit more comfortable making a first consultation or continuing therapy after my presentation. 
 
@@ -70,7 +70,7 @@ I will complete my final project by using Shorthand. My goal is to create a comp
 
 ## Part II ##
 
-Wireframes and Storyboard: https://preview.shorthand.com/8dtjuMeaHWhDAHbX 
+Wireframes and Storyboard: https://preview.shorthand.com/8dtjuMeaHWhDAHbX
 
 **User research and Interviews**
 
@@ -79,11 +79,12 @@ Target audience: US adults in general, those thinking about seeking mental healt
 Finding representative individuals to interview: 
 
 Interview script:
-1. q
-2. q
-3. q
-4. q
-5. q
+1. What is the first thing you noticed?
+2. Can you make sense of each visualization?
+3. Are you able to understand the storyboard overall and what did you take away as the main idea?
+4. What questions came to mind as you looked at the storyboard?
+5. Is any part of the storyboard confusing to you?
+6. What would you change about the storyboard?
 
 Findings from interviews:
 Interview 1:
