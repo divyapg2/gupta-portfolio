@@ -70,6 +70,7 @@ I will complete my final project by using Shorthand. My goal is to create a comp
 
 
 [Final Project Part II](/finalprojectpartii.md)
+
 [Final Project Part III](/finalprojectpartiii.md)
 
 [Go back to portfolio](/README.md)
