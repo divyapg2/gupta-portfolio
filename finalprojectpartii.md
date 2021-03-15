@@ -69,4 +69,7 @@ Visualization changes to address the issues identified:
 - for the 4 weeks data - rank the bars from lowest to highest use, use the data in a line graph to show change over months in use of mental health services
 - increase in mental health issues graph - indicate when the pandemic started (can show with color), include actual percentage values
 
+[Final Project Part I](/finalprojectparti.md)
+[Final Project Part III](/finalprojectpartiii.md)
+
 [Go back to portfolio](/README.md)
