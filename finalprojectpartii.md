@@ -70,6 +70,7 @@ Visualization changes to address the issues identified:
 - increase in mental health issues graph - indicate when the pandemic started (can show with color), include actual percentage values
 
 [Final Project Part I](/finalprojectparti.md)
+
 [Final Project Part III](/finalprojectpartiii.md)
 
 [Go back to portfolio](/README.md)
