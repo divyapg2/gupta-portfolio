@@ -17,5 +17,7 @@ Here's where all of my cool data visualizations will go!
 [Assignment 3 & 4: Critique by Design](/critiquebydesign.md)
 
 [Final Project Part I](/finalprojectparti.md)
+
 [Final Project Part II](/finalprojectpartii.md)
+
 [Final Project Part III](/finalprojectpartiii.md)
